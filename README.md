@@ -6,17 +6,20 @@ I am a **Data Science Student** and **Frontend Developer**. I specialize in unco
 ---
 
 ### 📊 Data Science & Visualization
-* **Analysis:** Python, NumPy, Pandas, & EDA.
+* **Analysis:** Python (Pandas, NumPy), EDA, & Data Cleaning.
 * **Visualization:** Matplotlib & Seaborn.
 * **Databases:** SQL & PostgreSQL.
+* **Environment:** Jupyter Notebook, VS Code.
 
 ### 🌐 Frontend Development
-* **Tools:** JavaScript, Bootstrap, HTML5, & CSS3.
+* **Languages & Frameworks:** JavaScript, Bootstrap, HTML5, & CSS3.
 
 ---
 
-### 🚀 Goals
-Currently focused on mastering advanced data storytelling and creating modern, mobile-friendly web designs.
+### 📚 Currently Learning
+* **Advanced Data Viz:** Creating interactive dashboards.
+* **Machine Learning:** Exploring Scikit-Learn basics.
+* **Backend:** Expanding PostgreSQL for complex data relationships.
 
 ### 📫 Let's Connect
 * **Email:**[kashifumar323@gmail.com](mailto:kashifumar323@gmail.com)
