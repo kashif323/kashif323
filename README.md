@@ -14,5 +14,8 @@ I am a **Data Science Student** and **Frontend Developer** passionate about turn
 ### 🚀 Goals
 Currently focused on mastering advanced data visualization and building modern, mobile-friendly web designs.
 
-📫 **Reach me at:**[kashifumar323@gmail.com](mailto:kashifumar323@gmail.com)
-🔗 **LinkedIn:**[in/mohammad-kashif-umar](https://linkedin.com/in/mohammad-kashif-umar)
+---
+
+### 📫 Let's Connect
+* **Email:** [kashifumar323@gmail.com](mailto:kashifumar323@gmail.com)
+* **LinkedIn:** [in/mohammad-kashif-umar](https://linkedin.com/in/mohammad-kashif-umar)
